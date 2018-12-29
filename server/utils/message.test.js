@@ -13,6 +13,7 @@ describe('generateMessage',() =>{
   });
 });
 
+
 describe('generateLocationMessage',() =>{
   it('should generate correct location url message object', () =>{
     var from = 'Jen';
